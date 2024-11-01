@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|c:\\users\\bengi\\desktop\\c# projects\\movie_archive\\movie_archive\\ratemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|solutionrelative:movie_archive\\ratemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|c:\\users\\bengi\\desktop\\c# projects\\movie_archive\\movie_archive\\ratemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|solutionrelative:movie_archive\\ratemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|c:\\users\\bengi\\desktop\\c# projects\\movie_archive\\movie_archive\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|solutionrelative:movie_archive\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|c:\\users\\bengi\\desktop\\c# projects\\movie_archive\\movie_archive\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9CF632A-9A0C-4EF0-B4E4-3E83D9FCF5DE}|Movie_Archive\\Movie_Archive.csproj|solutionrelative:movie_archive\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RateMovies.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\RateMovies.cs",
+              "RelativeDocumentMoniker": "Movie_Archive\\RateMovies.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\RateMovies.cs",
+              "RelativeToolTip": "Movie_Archive\\RateMovies.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:02:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RateMovies.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\RateMovies.cs",
+              "RelativeDocumentMoniker": "Movie_Archive\\RateMovies.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\RateMovies.cs [Design]",
+              "RelativeToolTip": "Movie_Archive\\RateMovies.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:01:31.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\Form1.cs",
+              "RelativeDocumentMoniker": "Movie_Archive\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\Form1.cs",
+              "RelativeToolTip": "Movie_Archive\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA6wFgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:49:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\Form1.cs",
+              "RelativeDocumentMoniker": "Movie_Archive\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\Movie_Archive\\Movie_Archive\\Form1.cs [Design]",
+              "RelativeToolTip": "Movie_Archive\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:28:20.981Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
